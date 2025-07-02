@@ -18,4 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 git clone https://github.com/amiel103/frontendTest.git
 cd backend
 npm install
+npm run dev
 ```
