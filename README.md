@@ -15,7 +15,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/amiel103/nodeBackendTest.git](https://github.com/amiel103/frontendTest.git
+git clone https://github.com/amiel103/frontendTest.git
 cd backend
 npm install
 ```
