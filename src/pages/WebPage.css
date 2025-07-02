@@ -1,0 +1,27 @@
+/* WebPage.css */
+.error-container {
+    text-align: center;
+    padding: 20px;
+    /* margin-top: 50px; */
+    margin: auto;
+  }
+  
+  .try-again-button {
+    background-color: #ff4d4d; /* Bright red */
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .try-again-button:hover {
+    background-color: #ff1a1a; /* Darker red on hover */
+  }
+  
+  .try-again-button:focus {
+    outline: none;
+  }
+  
